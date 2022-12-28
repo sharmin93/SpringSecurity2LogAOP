@@ -1,0 +1,62 @@
+2022-12-20 11:07:55 DEBUG UserController:14 - debug message
+2022-12-20 11:07:55 INFO  UserController:15 - info2 message
+2022-12-20 11:07:55 ERROR UserController:16 - error2 message
+2022-12-20 11:10:59 DEBUG UserController:14 - debug message
+2022-12-20 11:10:59 INFO  UserController:15 - info3 message
+2022-12-20 11:10:59 ERROR UserController:16 - error3 message
+2022-12-20 11:12:11 DEBUG UserController:14 - debug message
+2022-12-20 11:12:11 INFO  UserController:15 - info message
+2022-12-20 11:12:11 ERROR UserController:16 - error message
+2022-12-20 11:13:29 DEBUG UserController:14 welcome - debug message
+2022-12-20 11:13:29 INFO  UserController:15 welcome - info message
+2022-12-20 11:13:29 ERROR UserController:16 welcome - error message
+2022-12-27 11:48:27 DEBUG UserController:25 welcome - debug message
+2022-12-27 11:48:27 INFO  UserController:26 welcome - info message
+2022-12-27 11:48:27 ERROR UserController:27 welcome - error message
+2022-12-27 11:54:36 DEBUG UserController:25 welcome - debug message
+2022-12-27 11:54:36 INFO  UserController:26 welcome - info message
+2022-12-27 11:54:36 ERROR UserController:27 welcome - error message
+2022-12-27 11:59:05 DEBUG UserController:25 welcome - debug message
+2022-12-27 11:59:05 INFO  UserController:26 welcome - info message
+2022-12-27 11:59:05 ERROR UserController:27 welcome - error message
+2022-12-27 11:59:16 DEBUG UserController:25 welcome - debug message
+2022-12-27 11:59:16 INFO  UserController:26 welcome - info message
+2022-12-27 11:59:16 ERROR UserController:27 welcome - error message
+2022-12-27 12:09:41 DEBUG UserController:25 welcome - debug message
+2022-12-27 12:09:41 INFO  UserController:26 welcome - info message
+2022-12-27 12:09:41 ERROR UserController:27 welcome - error message
+2022-12-27 12:09:44 INFO  UserController:28 saveUser - saving user to database
+2022-12-27 12:09:57 INFO  UserController:28 saveUser - saving user to database
+2022-12-27 12:11:01 INFO  UserController:34 saveUserRole - saving userRole to Database
+2022-12-27 12:26:10 INFO  UserController:34 saveUserRole - saving userRole to Database
+2022-12-27 12:26:50 INFO  UserController:34 saveUserRole - saving userRole to Database
+2022-12-27 12:28:44 INFO  UserController:28 saveUser - saving user to database
+2022-12-27 12:46:07 INFO  UserController:42 addRoleToUser - saving userRole, userRoleName
+2022-12-27 12:57:54 INFO  UserController:42 addRoleToUser - saving userRole, userRoleName
+2022-12-27 13:02:44 INFO  UserController:44 addRoleToUser - saving userRole, userRoleName
+2022-12-27 16:32:29 INFO  UserController:30 saveUser - saving user to database
+2022-12-27 16:32:42 INFO  UserController:36 saveUserRole - saving userRole to Database
+2022-12-27 16:33:55 INFO  UserController:44 addRoleToUser - saving userRole, userRoleName
+2022-12-28 12:42:58 INFO  UserController:40 attemptAuthentication - username abc
+2022-12-28 12:42:58 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 14:55:03 INFO  UserController:40 attemptAuthentication - username abc
+2022-12-28 14:55:03 INFO  UserController:41 attemptAuthentication - password 1234
+2022-12-28 14:57:46 INFO  UserController:40 attemptAuthentication - username abc
+2022-12-28 14:57:46 INFO  UserController:41 attemptAuthentication - password 1234
+2022-12-28 14:58:50 INFO  UserController:40 attemptAuthentication - username abc
+2022-12-28 14:58:50 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 15:20:23 INFO  UserController:40 attemptAuthentication - username abc
+2022-12-28 15:20:23 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 15:20:45 INFO  UserController:46 saveUser - saving user to database
+2022-12-28 15:21:16 INFO  UserController:40 attemptAuthentication - username abc4
+2022-12-28 15:21:16 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 15:21:57 INFO  UserController:40 attemptAuthentication - username abc4
+2022-12-28 15:21:57 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 15:22:34 INFO  UserController:40 attemptAuthentication - username abc4
+2022-12-28 15:22:34 INFO  UserController:41 attemptAuthentication - password 123
+2022-12-28 15:41:36 INFO  UserController:45 attemptAuthentication - username abc4
+2022-12-28 15:41:36 INFO  UserController:46 attemptAuthentication - password 123
+2022-12-28 15:51:18 INFO  UserController:45 attemptAuthentication - username abc4
+2022-12-28 15:51:18 INFO  UserController:46 attemptAuthentication - password 123
+2022-12-28 15:51:38 INFO  UserController:45 attemptAuthentication - username abc4
+2022-12-28 15:51:38 INFO  UserController:46 attemptAuthentication - password 123
